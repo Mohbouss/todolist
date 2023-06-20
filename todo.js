@@ -9,10 +9,10 @@
   let users = [];
   let activeUser = null;
   
-  function CreateMyElement(tagName, textContent = '', className = '') {
+  function CreateMyElement(tagName, textContent = "", className ="") {
     let element = document.createElement(tagName);
     element.textContent = textContent;
-    element.classList.add(className);
+    className? element.classList.add(className):null;
     return element;
   }
   
