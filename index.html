@@ -3,21 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Todolist</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/d7b2def362.js" crossorigin="anonymous"></script>
+    
 </head>
 <body>
-    
-    <div id="page1">
-        <input type="text" id="add-user-input">
-        <button type="button" id="add-user-btn">add a user</button>
+      <div id="page1" >
+        <header class="header">Todo App</header>
+        <div class="inputField">
+            <input type="text" id="add-user-input" placeholder="Add your new User" >
+            <button type="button" id="add-user-btn"><i class="fa-solid fa-plus"></i></button>
+        </div>
         <div id="user-container"></div>
-    </div>
-        <div id="page2" class="hidden">
-        <input type="text" id="add-task-input">
-        <button type="button" id="add-task-btn">add a task</button>
-        <button type="button" id="return-to-users">return to the list of users</button>
+     </div>
+        <div id="page2" class="hidden" >
+        <div class="inputField">
+            <input type="text" id="add-task-input" placeholder="Add your new Todo">
+            <button type="button" id="add-task-btn"><i class="fa-solid fa-plus"></i></button>
+            <button type="button" id="return-to-users"><i class="fa-solid fa-person-running"></i></button>
+        </div>
         <div id="task-container"></div>
+     
     </div>
 </body>
 <script src="todo.js"></script>
