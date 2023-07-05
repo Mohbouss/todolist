@@ -38,8 +38,8 @@ Contributions to enhance the TodoList web application are welcome. To contribute
 4. Commit your changes and push the branch to your forked repository.
 5. Submit a pull request, detailing the changes you made and their significance.
 ## Users Page
-![Screenshot](TODO1.png)
+![Screenshot](C:\todolist\TODO1.PNG)
 
 ## Tasks Page
-![Screenshot](todo2.png)
+![Screenshot](C:\todolist\todo2.png)
 
