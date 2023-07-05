@@ -6,7 +6,8 @@ The TodoList web application allows multiple users to save and manage their task
 - [Project Description](#project-description)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- -[images](#images)
+- [Users Page](#UsersPage)
+- [Tasks Page](#TasksPage)
 
 
 ## Project Description
