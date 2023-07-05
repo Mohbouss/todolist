@@ -40,8 +40,8 @@ Contributions to enhance the TodoList web application are welcome. To contribute
 5. Submit a pull request, detailing the changes you made and their significance.
 ## Users Page
 
-![Users Page](C:/todolistimage/TODO1.png)
+![Users Page](C:\todolistimage\todo2.png)
 
 ## Tasks Page
-![Tasks Page](C:/todolistimage/todo2.png)
+![Tasks Page](C:/todolistimage/TODO1.png)
 
